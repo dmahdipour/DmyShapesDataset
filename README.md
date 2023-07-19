@@ -3,6 +3,9 @@ Datasets or Machine Learning Data can be considered similar to data collections 
 
 You can run it simply by opening it in google coolab.
 
+## Sample Dataset Schema
+![My_Image](IMG/sample_dataset_schema.png)
+
 ## Generated Shapes
 You can see some of generated shapes in bellow:
 ### Circle
