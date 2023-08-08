@@ -19,4 +19,4 @@ You can see some of generated shapes in bellow:
 ![My_Image](IMGs/colorfulDatasetSamples.jpg)
 
 ## Trained Model Loss and Accuracy
-![My_Image](IMGs/Model-Loss-Accuracy.png)pe
+![My_Image](IMGs/Model-Loss-Accuracy.png)
