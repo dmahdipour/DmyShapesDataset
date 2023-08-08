@@ -4,20 +4,20 @@ Datasets or Machine Learning Data can be considered similar to data collections 
 You can run it simply by opening it in google coolab.
 
 ## Sample Dataset Schema
-![My_Image](IMG/sample_dataset_schema.png)
+![My_Image](IMGs/sample_dataset_schema.png)
 
 ## Generated Shapes
 You can see some of generated shapes in bellow:
 ### Circle
-![My_Image](IMG/circleDataSetSamples.png)
+![My_Image](IMGs/circleDataSetSamples.png)
 ### Rectangular
-![My_Image](IMG/rectangularDataSetSamples.png)
+![My_Image](IMGs/rectangularDataSetSamples.png)
 ### Square
-![My_Image](IMG/squareDataSetSamples.png)
+![My_Image](IMGs/squareDataSetSamples.png)
 
 ### Colorful Dataset Samples (It is not available now!!)
-![My_Image](IMG/colorfulDatasetSamples.jpg)
+![My_Image](IMGs/colorfulDatasetSamples.jpg)
 
 ## To DO
-* Training a Classification Model for exsiting types
-* Coding a Model for recogonizing samples shape
+### Training a Classification Model for exsiting types
+### Coding a Model for recogonizing samples shape
