@@ -18,6 +18,5 @@ You can see some of generated shapes in bellow:
 ### Colorful Dataset Samples (It is not available now!!)
 ![My_Image](IMGs/colorfulDatasetSamples.jpg)
 
-## To DO
-### Training a Classification Model for exsiting types
-### Coding a Model for recogonizing samples shape
+## Trained Model Loss and Accuracy
+![My_Image](IMGs/Model-Loss-Accuracy.png)pe
